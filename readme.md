@@ -24,7 +24,7 @@ Place `transacoes_fraude.xlsx` in the `DataBase` directory, then run the script 
 python app.py
 ```
 
-The script reads `DataBase/transacoes_fraude.xlsx` into `df`. The repository includes the data files in `DataBase/`.
+The script reads `DataBase/transacoes_fraude.xlsx` into `df`. Data is not included; put the file in `DataBase/`.
 
 ## Next steps
 
